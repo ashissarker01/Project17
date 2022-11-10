@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 1000px;
+    background: teal;
+   padding-top: 100px;
+}
+
+button{
+    padding: 15px;
+    background: tomato;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+
+.box{
+    margin-top: 50px;
+    margin-left: 400px;
+    height: 200px;
+    width: 200px;
+    background: tomato;
+    border-radius: 10px;
+}
+
+.bor{
+    margin-top: 50px;
+    margin-left: 400px;
+    height: 200px;
+    width: 200px;
+    background: url(../image/bride.png);
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
